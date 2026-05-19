@@ -1,6 +1,6 @@
-# TaskFlow - Premium Task Management Web Application
+# TaskManage - Task Management Web Application
 
-TaskFlow is a simple, responsive, and beautiful Task Management Web Application built for a technical assessment. It features a highly aesthetic, modern, and light-themed user interface coupled with secure real-time backend integrations powered by Google Firebase.
+TaskManage is a simple, responsive, and beautiful Task Management Web Application built for a technical assessment. It features a highly aesthetic, modern, and light-themed user interface coupled with secure real-time backend integrations powered by Google Firebase.
 
 ---
 
@@ -180,7 +180,7 @@ TaskFlow is optimized to be hosting-ready and is fully compatible with [Vercel](
 
 ## 11. AI Usage Summary
 
-* **AI Tooling**: Developed using the **Antigravity AI coding assistant** powered by the **Gemini 3 Flash** model.
+* **AI Tooling**: Developed using the **CHATGPT**.
 * **How AI Assisted**:
   1. Provided full project initialization configurations.
   2. Scaffolding design of components (`Spinner.jsx`, `TaskCard.jsx`, `TaskForm.jsx`) using precise, responsive Tailwind styling.
